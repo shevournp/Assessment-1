@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-let gitDefinition =('control system programmers use for coordinating work.')
+let gitDefinition =('version control system programmers use for coordinating work&projects, prevent bugs and loss of progress.also shows long history of project snapshots')
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -28,7 +28,7 @@ let gitHubDefinition =('platform and cloud user use to manage there code and als
 */
 
 //CODE HERE
-let gitInitDefinition=('its a command,helps creates a new/empty git repositoty.used to convert an exisiting project ')
+let gitInitDefinition=('its a command,helps initialize a local (new/empty) repositoty in a folder. ')
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -46,7 +46,7 @@ let gitCloneDefinition =('used to point to an existing repo and make a clone or 
 */
 
 //CODE HERE
-let gitStatusDefinition =(' gives you the status where file are. can being tracked by Git once pushed')
+let gitStatusDefinition =(' tells you about the repo.')
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -57,7 +57,7 @@ let gitStatusDefinition =(' gives you the status where file are. can being track
 */
 
 //CODE HERE
-let gitAddDefinition =('adds changes in the working directory to the staging area.aka from vs to git hub');
+let gitAddDefinition =('adds changes in the working directory to the staging area so it is tracked.');
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -68,7 +68,7 @@ let gitAddDefinition =('adds changes in the working directory to the staging are
 */
 
 //CODE HERE
-let gitCommitDefinition=('capture the state of a project at that point in time, when youre ready to push it to gits.');
+let gitCommitDefinition=('capture the state of a project at that point in time, when youre ready to push it to gits/it creates the snapshot of the files being tracked');
 
 //////////////////PROBLEM 8////////////////////
 /*

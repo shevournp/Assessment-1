@@ -13,7 +13,6 @@ let faveNum = ('27');
 
 //CODE HERE
 let lovesCode = 'true';
-// console.log(true)
 
 
 //////////////////PROBLEM 4////////////////////
