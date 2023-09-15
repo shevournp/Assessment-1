@@ -10,14 +10,16 @@
 */
 
 //CODE HERE
+let gitDefinition =('control system programmers use for coordinating work.')
 
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
     It should be a string containing your best definition of what GitHub is.
 */
-
 //CODE HERE
+let gitHubDefinition =('platform and cloud user use to manage there code and also to share with others,works with gits')
+
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +28,7 @@
 */
 
 //CODE HERE
+let gitInitDefinition=('its a command,helps creates a new/empty git repositoty.used to convert an exisiting project ')
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +37,7 @@
 */
 
 //CODE HERE
+let gitCloneDefinition =('used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location')
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,7 +46,7 @@
 */
 
 //CODE HERE
-
+let gitStatusDefinition =(' gives you the status where file are. can being tracked by Git once pushed')
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +57,7 @@
 */
 
 //CODE HERE
-
+let gitAddDefinition =('adds changes in the working directory to the staging area.aka from vs to git hub');
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +68,7 @@
 */
 
 //CODE HERE
-
+let gitCommitDefinition=('capture the state of a project at that point in time, when youre ready to push it to gits.');
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +77,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition =('transfer commits from your local repository to a remote repo. it is the last step')
