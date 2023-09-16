@@ -50,10 +50,12 @@ const pinkPrice = .55
 */
 
 // CODE HERE
+let totalAcres = []
 
+for(i=0; i < totalAcres.length; ++i){
+   
 
-
-
+}
 
 // PROBLEM 2
 

@@ -46,7 +46,7 @@ let gitCloneDefinition =('used to point to an existing repo and make a clone or 
 */
 
 //CODE HERE
-let gitStatusDefinition =(' tells you about the repo.')
+let gitStatusDefinition =(' tells you about the repo display that states the working directory and staging area.')
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
