@@ -48,10 +48,10 @@ const pinkPrice = .55
 
     Log `totalAcres` to the console.
 */
-
+//for this problem I tried to added all the arrays together to bring out the total number.
+//it will help print out in the terminal because it will bring out the total.
 // CODE HERE
-let totalAcres = []
-
+let totalAcres =fujiAcres+galaAcres+pinkAcres 
 for(i=0; i < totalAcres.length; ++i){
    
 
