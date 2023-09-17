@@ -48,14 +48,30 @@ const pinkPrice = .55
 
     Log `totalAcres` to the console.
 */
-//for this problem I tried to added all the arrays together to bring out the total number.
+//for this problem I tried to added all the arrays together to bring out the total number like the question ask(fujiAcres+galaAcres+pinkAcres).since they are the variables i tied to do them all in one but i ended up which them  to make them indivdual statement because i wasnt able to run it so then i just did the for loop indivdual i am using the for statement and then I use the .length for each.at first it wasnt running because i plug in the info wrong but it start to work after the equation didnt run the amount it ran 0 
+
 //it will help print out in the terminal because it will bring out the total.
 // CODE HERE
 let totalAcres =fujiAcres+galaAcres+pinkAcres 
-for(i=0; i < totalAcres.length; ++i){
-   
 
-}
+sumfujiAcres= 0;
+
+//  for(i=0; i < fujiAcres.length; i++){
+//      sumfujiAcres == fujiAcres[i];
+
+//      console.log('total acres is : '+sumfujiAcres);
+
+// }
+sumgalaAcres = 0;
+    for(i=1; i< galaAcres.length; i++){
+        sumgalaAcres == fujiAcres[i];
+        console.log('total'+sumgalaAcres);
+    }
+sumpinkAcres= 0;
+    for( let i=0; i < pinkPrice.length; i++ ){
+        sumpinkAcres == sumpinkAcres[i];
+        console.log(pinkPrice)
+    }
 
 // PROBLEM 2
 
@@ -68,8 +84,13 @@ for(i=0; i < totalAcres.length; ++i){
 
     Log `averageDailyAcres` to the console.
 */
-
+// 
 // CODE HERE
+//after creating the variable which is(averageDailyAcres)i was able to just use string in order to plug them together and had the console run by putting averageDailyAcres. 
+
+let averageDailyAcres= totalAcres;
+console.log(averageDailyAcres);
+
 
 
 
@@ -108,7 +129,10 @@ let acresLeft = 174
 let days = 0
 
 // CODE HERE
-
+// after i did the while statement it started to print out infinite 0. I copied the code but on the example it had another soluion text += "the number" +1. but i wasnt sure how to use that with this code because i typed day  but it didnt work to run the program so i left it with the 
+while(acresLeft < 7){
+    console.log(days);
+}
 
 
 // PROBLEM 4
@@ -211,3 +235,6 @@ let days = 0
 */
 
 // CODE HERE
+//
+let 
+console.log(totalProfit)
