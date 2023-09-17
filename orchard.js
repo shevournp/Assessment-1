@@ -86,9 +86,9 @@ sumpinkAcres= 0;
 */
 // 
 // CODE HERE
-//after creating the variable which is(averageDailyAcres)i was able to just use string in order to plug them together and had the console run by putting averageDailyAcres. 
+//after creating the variable which is(averageDailyAcres)i was able to just use string in order to plug them together and had the console run by putting averageDailyAcres and / by 7 because it is the week 
 
-let averageDailyAcres= totalAcres;
+let averageDailyAcres= totalAcres /7;
 console.log(averageDailyAcres);
 
 
@@ -129,7 +129,7 @@ let acresLeft = 174
 let days = 0
 
 // CODE HERE
-// after i did the while statement it started to print out infinite 0. I copied the code but on the example it had another soluion text += "the number" +1. but i wasnt sure how to use that with this code because i typed day  but it didnt work to run the program so i left it with the 
+// after i did the while statement it started to print out infinite 0. I copied the code but on the example it had another soluion text += "the number" +1. but i wasnt sure how to use that with this code because i typed day  but it didnt work to run the program so i left it with the below
 while(acresLeft < 7){
     console.log(days);
 }
@@ -161,9 +161,10 @@ while(acresLeft < 7){
 
 // CODE HERE
 
-// let fujiTons =
-// let galaTons =
-// let pinkTons =
+
+// let fujiTons = .slice
+// let galaTons = .slice
+// let pinkTons = .slice
 
 
 
@@ -214,11 +215,12 @@ while(acresLeft < 7){
 */
 
 // CODE HERE
+//i tried to create the variable with the stings 
 
-// let fujiProfit =
-// let galaProfit =
-// let pinkProfit =
-
+let fujiProfit = fujiPound
+let galaProfit = galaPound
+let pinkProfit = pinkProud
+console.log(pinkprofit)
 
 
 
@@ -236,5 +238,6 @@ while(acresLeft < 7){
 
 // CODE HERE
 //
-let 
-console.log(totalProfit)
+//since it asked for the total i assume i needed to put them all together as i did in number one and use the console to pring out the total profit.i wanst able to get it to run because i am missing something since i wasnt able to complete the previous question 
+let totalProfit =fujiProfit+galaProfit+pinkProfit 
+console.log(totalProfit);
